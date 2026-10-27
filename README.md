@@ -20,3 +20,6 @@ MuJoCo / MJXによる物理シミュレーション環境を使用し、JAX・Br
 強化学習：PPO（Proximal Policy Optimization）
 学習フレームワーク：JAX / Brax
 実行環境：Google Colab
+
+### Youtubeリンク 
+PAI最終課題_6691：
