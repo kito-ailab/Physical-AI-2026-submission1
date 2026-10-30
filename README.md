@@ -22,4 +22,4 @@ MuJoCo / MJXによる物理シミュレーション環境を使用し、JAX・Br
 実行環境：Google Colab
 
 ### Youtubeリンク 
-PAI最終課題_6691：
+PAI最終課題_6691：https://youtu.be/H-t4RVvS-xM
